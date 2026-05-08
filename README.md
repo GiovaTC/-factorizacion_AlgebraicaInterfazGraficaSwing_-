@@ -11,6 +11,8 @@ Proyecto Java + Oracle 19c:
 
 ```
 
+<img width="2552" height="1076" alt="image" src="https://github.com/user-attachments/assets/e9136095-f19f-4571-b6c4-d73249e53845" />    
+
 ```
 Factorización Algebraica con Interfaz Gráfica Swing (IntelliJ IDEA)
 
