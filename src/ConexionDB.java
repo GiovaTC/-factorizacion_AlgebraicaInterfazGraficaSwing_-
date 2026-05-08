@@ -1,3 +1,5 @@
+// clase conexion .
+
 import java.sql.Connection;
 import java.sql.DriverManager;
 
@@ -28,4 +30,4 @@ public class ConexionDB {
 
         return cn;
     }
-}   
+}
