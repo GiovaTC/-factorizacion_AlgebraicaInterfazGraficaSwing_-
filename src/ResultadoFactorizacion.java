@@ -30,4 +30,4 @@ public class ResultadoFactorizacion {
 
     public String getResultado() { return resultado; }
     public void setResultado(String resultado) { this.resultado = resultado; }
-}   
+}
